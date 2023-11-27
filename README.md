@@ -7,6 +7,7 @@
 - 🔭 主要使用: Python，Java，Android，
 - 🌱 推し: [Youtube](http://www.youtube.com/)
 - 📫 E-mail: coding-dream@foxmail.com
+- 🌐 公众号：Alien的小窝
 - 🍨 Blog: [Alien's Blog](https://ssup.cc)
 - 👯 About me: 全栈开发，热爱生活...
 - 🌐 Languages: English, 中文
